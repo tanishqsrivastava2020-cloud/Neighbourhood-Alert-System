@@ -1,0 +1,27 @@
+# Sample alerts to demonstrate functionality
+alerts = [
+    {
+        'id': 1,
+        'title': 'Power Outage in Sector 5',
+        'description': 'Unexpected power cut since 2 PM. Expected restoration by 6 PM.',
+        'type': 'EMERGENCY',
+        'location': 'Green Valley',
+        'posted_by': 'raj123',
+        'poster_name': 'Raj Sharma',
+        'urgency': 'HIGH',
+        'timestamp': '2024-11-25 14:30:00',
+        'status': 'ACTIVE'
+    },
+    {
+        'id': 2,
+        'title': 'Community Cleanup Drive',
+        'description': 'Join us for neighborhood cleaning this Sunday at 8 AM.',
+        'type': 'EVENT',
+        'location': 'Lakeview Colony',
+        'posted_by': 'priya_p',
+        'poster_name': 'Priya Patel',
+        'urgency': 'MEDIUM',
+        'timestamp': '2024-11-25 09:15:00',
+        'status': 'ACTIVE'
+    }
+]
