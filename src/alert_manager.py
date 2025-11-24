@@ -122,12 +122,12 @@ def search_alerts(alerts):
 
 def view_user_alerts(alerts, current_user):
     """Display alerts posted by the current user"""
-    print(f"\n--- 📋 MY ALERTS ---")
+    print(f"\n---  MY ALERTS ---")
     
     user_alerts = [alert for alert in alerts if alert['posted_by'] == current_user['username']]
     
     if not user_alerts:
-        print("📭 You haven't posted any alerts yet.")
+        print(" You haven't posted any alerts yet.")
         return
     
     print(f"You have posted {len(user_alerts)} alert(s):")
