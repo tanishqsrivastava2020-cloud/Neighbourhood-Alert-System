@@ -1,0 +1,118 @@
+{
+  "neighborhoods": [
+    {
+      "name": "Green Valley",
+      "code": "GV",
+      "description": "Residential area with parks and community centers",
+      "population": 5000,
+      "contact_person": "Mr. Sharma - 9876543210",
+      "emergency_contacts": {
+        "police": "100",
+        "ambulance": "102",
+        "fire": "101",
+        "local_admin": "9876543211"
+      }
+    },
+    {
+      "name": "Lakeview Colony",
+      "code": "LC",
+      "description": "Lakeside community with premium amenities",
+      "population": 3000,
+      "contact_person": "Mrs. Patel - 9123456780",
+      "emergency_contacts": {
+        "police": "100",
+        "ambulance": "102",
+        "fire": "101",
+        "local_admin": "9123456781"
+      }
+    },
+    {
+      "name": "Tech Park Area",
+      "code": "TP",
+      "description": "IT corridor with residential complexes",
+      "population": 8000,
+      "contact_person": "Mr. Kumar - 9765432109",
+      "emergency_contacts": {
+        "police": "100",
+        "ambulance": "102",
+        "fire": "101",
+        "local_admin": "9765432110"
+      }
+    },
+    {
+      "name": "Old City Center",
+      "code": "OC",
+      "description": "Historic downtown area with mixed residential-commercial spaces",
+      "population": 10000,
+      "contact_person": "Ms. Gupta - 9654321098",
+      "emergency_contacts": {
+        "police": "100",
+        "ambulance": "102",
+        "fire": "101",
+        "local_admin": "9654321099"
+      }
+    },
+    {
+      "name": "University Campus",
+      "code": "UC",
+      "description": "Educational institution and surrounding student housing",
+      "population": 15000,
+      "contact_person": "Dr. Verma - 9543210987",
+      "emergency_contacts": {
+        "police": "100",
+        "ambulance": "102",
+        "fire": "101",
+        "campus_security": "9543210988"
+      }
+    }
+  ],
+  "city_info": {
+    "city_name": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "total_neighborhoods": 5,
+    "emergency_services": {
+      "control_room": "108",
+      "women_helpline": "1090",
+      "child_helpline": "1098",
+      "disaster_management": "1070"
+    }
+  },
+  "facilities": [
+    {
+      "name": "Green Valley Community Center",
+      "type": "community_center",
+      "location": "Green Valley",
+      "contact": "0755-2345678",
+      "services": ["Meeting hall", "Park", "Sports facility"]
+    },
+    {
+      "name": "Lakeview Medical Clinic",
+      "type": "healthcare",
+      "location": "Lakeview Colony",
+      "contact": "0755-2345679",
+      "services": ["General physician", "Emergency care", "Pharmacy"]
+    },
+    {
+      "name": "Tech Park Police Station",
+      "type": "security",
+      "location": "Tech Park Area",
+      "contact": "0755-2345680",
+      "services": ["Police assistance", "FIR registration", "Community policing"]
+    },
+    {
+      "name": "Old City Fire Station",
+      "type": "emergency",
+      "location": "Old City Center",
+      "contact": "0755-2345681",
+      "services": ["Fire emergency", "Rescue operations", "Safety inspections"]
+    },
+    {
+      "name": "University Health Center",
+      "type": "healthcare",
+      "location": "University Campus",
+      "contact": "0755-2345682",
+      "services": ["Student healthcare", "Emergency medical", "Counseling"]
+    }
+  ]
+}
