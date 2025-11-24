@@ -1,0 +1,7 @@
+# Neighborhood Alert System Requirements
+# Core Python 3.6+ - No external dependencies
+
+# For future enhancements:
+# flask>=2.0.0
+# requests>=2.25.0
+# smtplib (built-in for email features)
