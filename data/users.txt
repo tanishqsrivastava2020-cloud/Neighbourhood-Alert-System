@@ -1,0 +1,19 @@
+# Sample user registrations to test with
+users = [
+    {
+        'name': 'Raj Sharma',
+        'username': 'raj123',
+        'password': 'password123',
+        'location': 'Green Valley',
+        'phone': '9876543210',
+        'registration_date': '2024-11-25 10:00:00'
+    },
+    {
+        'name': 'Priya Patel', 
+        'username': 'priya_p',
+        'password': 'hello123',
+        'location': 'Lakeview Colony',
+        'phone': '9123456780',
+        'registration_date': '2024-11-25 11:30:00'
+    }
+]
