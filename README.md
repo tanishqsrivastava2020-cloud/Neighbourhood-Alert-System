@@ -1,4 +1,4 @@
-# Neighbourhood-Alert-System
+## Neighbourhood-Alert-System
 College VITyarthi project of Introduction to Problem Solving and Programming on Neighbourhood Alert System
 
 ## Problem Statement
@@ -32,10 +32,10 @@ A console-based alert system that allows residents to post, view, and manage nei
 4. Alerts are saved and persist between sessions
 
 ## Alert Categories
-- 🚨 EMERGENCY (Power outage, safety issues)
-- ℹ️ INFORMATION (Community news, updates)
-- 🎉 EVENT (Local events, meetings)
-- 🛠️ MAINTENANCE (Road work, utilities)
+-  EMERGENCY (Power outage, safety issues)
+-  INFORMATION (Community news, updates)
+-  EVENT (Local events, meetings)
+-  MAINTENANCE (Road work, utilities)
 
 ## Project Structure
 - `main.py` - Application entry point
